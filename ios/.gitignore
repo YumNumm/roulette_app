@@ -35,3 +35,9 @@ Runner/GeneratedPluginRegistrant.*
 
 # bundle related
 /vendor/
+
+# fastlane related
+/fastlane/report.xml
+/fastlane/Preview.html
+/fastlane/screenshots
+/AuthKey_*.p8
